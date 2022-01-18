@@ -12,7 +12,7 @@ body{
     outline: none !important;
 }
 .bg-black{
-    background: #000;
+    background: #131a9c;
 }
 /*=========Slider Section ============*/
 .carousel-item{
@@ -38,7 +38,7 @@ body{
 
 }
 .btn-color{
-    background: #000;
+    background: #131a9c;
     color: #fff;
 }
 .btn-color:hover{
@@ -116,7 +116,7 @@ body{
   /*======End of Service Section====*/
   /*=======Products section=======*/
   #products{
-    background:#000;
+    background:#131a9c;
   }
   .product-title{
     color: #fff;
@@ -222,7 +222,7 @@ body{
 }
 /*Best Seller== */
 .seller{
-  background: #000;
+  background: #131a9c;
   color: #fff;
   margin-top: 30px;
 }
@@ -261,7 +261,7 @@ body{
 /* End of Best Seller==*/
 /*Contact us */
 .btn-color{
-  background: #000;
+  background: #131a9c;
   color: #fff;
 }
 
@@ -327,7 +327,7 @@ body{
 }
 /*==Footer===*/
 .footer{
-  background: #000;
+  background: #131a9c;
   color: #fff;
 }
 .fab{

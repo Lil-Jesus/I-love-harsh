@@ -20,17 +20,17 @@ body{
 }
 .carousel-image-1{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
-    url('https://www12.lunapic.com/do-not-link-here-use-hosting-instead/164217577302829826?6704266063');
+    url('harsh_lip_new.jpg');
     background-size: cover;
 }
 .carousel-image-2{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('https://www12.lunapic.com/editor/working/164217577302829826?7437827812');
+     url('cholo_harsh_new.jpg');
     background-size: cover;
 }
 .carousel-image-3{
     background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),
-     url('https://www12.lunapic.com/do-not-link-here-use-hosting-instead/164217577302829826?7500448645');
+     url('harsh_gaming_new.jpg');
     background-size: cover;
 }
 .h-color{
